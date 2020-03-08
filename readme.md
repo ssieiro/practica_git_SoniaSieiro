@@ -1,5 +1,7 @@
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué?
+*Uso el comando <strong>reset --hard HEAD~1</strong> para volver atrás y eliminar lo que haya en el working copy*
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
+*Primero compruebo el hash con reflog y luego uso el comando <strong> reset --hard <hash></strong> para recuperar los cambios*
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
 - El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
