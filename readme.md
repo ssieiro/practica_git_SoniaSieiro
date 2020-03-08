@@ -1,7 +1,7 @@
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 *Uso el comando <strong>reset --hard HEAD~1</strong> para volver atrás y eliminar lo que haya en el working copy*
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
-*Primero compruebo el hash con reflog y luego uso el comando <strong> reset --hard <hash></strong> para recuperar los cambios*
+*Primero compruebo el hash con reflog y luego uso el comando <strong> reset --hard [hash]</strong> para recuperar los cambios*
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 *no, porque el merge no se realiza*
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
@@ -19,8 +19,9 @@
 - ¿Qué comando o comandos utilizaste en el paso 29?
 *<strong>git branch -D title</strong> para que la elimine aunque haya cambios que no están añadidos*
 - ¿Qué comando o comandos utilizaste en el paso 30?
-*Compruebo el hash con reflog y uso el comando <strong>git reset --hard <hash></strong>*
+*Compruebo el hash con reflog y uso el comando <strong>git reset --hard [hash]</strong>*
 - ¿Qué comando o comandos usaste en el paso 32?
-*Compruebo el hash del commit inicial con reflog y uso el comando <strong>git reset --hard <hash></strong>*
+*Compruebo el hash del commit inicial con reflog y uso el comando <strong>git reset --hard [hash]</strong>*
 - ¿Qué comando o comandos usaste en el punto 33?
-*Compruebo el hash con reflog y uso el comando <strong>git reset --hard <hash></strong>*
+*Compruebo el hash con reflog y uso el comando <strong>git reset --hard [hash]</strong>*
+
