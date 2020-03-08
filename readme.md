@@ -21,4 +21,6 @@
 - ¿Qué comando o comandos utilizaste en el paso 30?
 *Compruebo el hash con reflog y uso el comando <strong>git reset --hard <hash></strong>*
 - ¿Qué comando o comandos usaste en el paso 32?
+*Compruebo el hash del commit inicial con reflog y uso el comando <strong>git reset --hard <hash></strong>*
 - ¿Qué comando o comandos usaste en el punto 33?
+*Compruebo el hash con reflog y uso el comando <strong>git reset --hard <hash></strong>*
