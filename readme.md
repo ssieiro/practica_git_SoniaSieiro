@@ -11,9 +11,14 @@
 - ¿Qué comando o comandos utilizaste en el paso 25?
 *utilizo <strong>git graph</strong> que es un alias de el comando <strong>git log --graph --decorate --pretty=oneline</strong>*
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
+*Sí, porque solo hay un commit por delante de master*
 - ¿Qué comando o comandos utilizaste en el paso 27?
+*El comando <strong>git reset HEAD~1</strong> para deshacer el último paso*
 - ¿Qué comando o comandos utilizaste en el paso 28?
+*<strong>git checkout git-nuestro.md</strong>*
 - ¿Qué comando o comandos utilizaste en el paso 29?
+*<strong>git branch -D title</strong> para que la elimine aunque haya cambios que no están añadidos*
 - ¿Qué comando o comandos utilizaste en el paso 30?
+*Compruebo el hash con reflog y uso el comando <strong>git reset --hard <hash></strong>*
 - ¿Qué comando o comandos usaste en el paso 32?
 - ¿Qué comando o comandos usaste en el punto 33?
