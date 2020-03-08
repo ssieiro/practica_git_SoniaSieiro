@@ -5,6 +5,7 @@
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 *no, porque el merge no se realiza*
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
+*sí, porque el archivo estaba modificado en dos ramas distintas*
 - El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
 - ¿Qué comando o comandos utilizaste en el paso 25?
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
