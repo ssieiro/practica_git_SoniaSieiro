@@ -9,6 +9,7 @@
 - El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
 *no, porque en master no había modificaciones*
 - ¿Qué comando o comandos utilizaste en el paso 25?
+*utilizo <strong>git graph</strong> que es un alias de el comando <strong>git log --graph --decorate --pretty=oneline</strong>*
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 - ¿Qué comando o comandos utilizaste en el paso 27?
 - ¿Qué comando o comandos utilizaste en el paso 28?
